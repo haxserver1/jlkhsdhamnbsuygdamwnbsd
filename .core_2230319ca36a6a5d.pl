@@ -34,8 +34,7 @@ my %tmp_files = (
     "udpbypass.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/udpbypass.pl",
     "udphex.pl" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/udphex.pl",
     "bflood.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/bflood.pl",
-    "7.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/7.pl",
-    "ldap.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/ldap.pl",
+    "hexmeta.pl" => "raw.githubusercontent.com/haxserver1/jlkhsdhamnbsuygdamwnbsd/main/hexmeta.pl",
     "home.php" => "raw.githubusercontent.com/sunokazzu/zuskoa_34/main/home.php",
 );
 
